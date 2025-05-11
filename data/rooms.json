@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Двухместный стандарт",
+    "type": "standard",
+    "price": 1500,
+    "capacity": 2,
+    "description": "Уютный номер с двумя односпальными кроватями. Идеально подходит для друзей или коллег.",
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=500&q=80",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=500&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Кондиционер", "Душ", "Полотенца", "Мини-холодильник"]
+  },
+  {
+    "id": 2,
+    "title": "Четырехместный эконом",
+    "type": "economy",
+    "price": 800,
+    "capacity": 4,
+    "description": "Просторный номер с двухъярусными кроватями. Отличный выбор для экономичного размещения.",
+    "images": [
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=500&q=80",
+      "https://images.unsplash.com/photo-1594463750939-ebb28c3f7f75?w=500&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Кондиционер", "Общий душ", "Шкафчики"]
+  },
+  {
+    "id": 3,
+    "title": "Одноместный люкс",
+    "type": "luxury",
+    "price": 3000,
+    "capacity": 1,
+    "description": "Комфортабельный номер с большой кроватью и отдельной рабочей зоной.",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=500&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=500&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Кондиционер", "Душ", "Телевизор", "Мини-бар", "Рабочий стол"]
+  },
+  {
+    "id": 4,
+    "title": "Шестиместный общий",
+    "type": "dormitory",
+    "price": 600,
+    "capacity": 6,
+    "description": "Общая комната с тремя двухъярусными кроватями. Идеально для бюджетных путешественников.",
+    "images": [
+      "https://images.unsplash.com/photo-1489171078254-c3365d6e359f?w=500&q=80",
+      "https://images.unsplash.com/photo-1467043198406-dc953a3defa0?w=500&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Кондиционер", "Общие душевые", "Личные шкафчики"]
+  },
+  {
+    "id": 5,
+    "title": "Семейный двухкомнатный",
+    "type": "family",
+    "price": 4500,
+    "capacity": 4,
+    "description": "Просторный номер с отдельной спальней и гостиной. Подходит для семей с детьми.",
+    "images": [
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=500&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=500&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Кондиционер", "Душ", "Телевизор", "Кухонный уголок", "Балкон"]
+  }
+]

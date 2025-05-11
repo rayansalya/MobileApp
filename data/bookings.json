@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "roomId": 1,
+    "roomTitle": "Двухместный стандарт",
+    "userId": 1,
+    "checkIn": "2024-03-15",
+    "checkOut": "2024-03-17",
+    "totalPrice": 3000,
+    "status": "confirmed",
+    "guestName": "Иван Иванов",
+    "guestEmail": "ivan@example.com"
+  },
+  {
+    "id": 2,
+    "roomId": 3,
+    "roomTitle": "Одноместный люкс",
+    "userId": 1,
+    "checkIn": "2024-04-10",
+    "checkOut": "2024-04-12",
+    "totalPrice": 6000,
+    "status": "pending",
+    "guestName": "Иван Иванов",
+    "guestEmail": "ivan@example.com"
+  }
+]
